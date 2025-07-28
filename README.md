@@ -49,8 +49,8 @@ Join me or follow along. 💻🔥
 
 - [TryHackMe](https://tryhackme.com/)
 - [CyberDefenders](https://cyberdefenders.org/)
-- [Hack The Box](https://www.hackthebox.com/) *(optional)*
-- [BTLO](https://blueteamlabs.online/) *(optional)*
+- [Hack The Box](https://www.hackthebox.com/) 
+- [BTLO](https://blueteamlabs.online/)
 
 ---
 
