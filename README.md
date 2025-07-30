@@ -6,7 +6,7 @@ This is part of my personal journey as I rebuild, rediscover and expand my cyber
 # 🛡️ Cybersecurity Training Journey — 90 Days
 
 Welcome to my personal cybersecurity upskilling journey!  
-I'll be completing daily training using **TryHackMe**, **CyberDefenders**, and related platforms.
+I'll be completing daily training using **TryHackMe**, **CyberDefenders**, **BTLO** and related platforms.
 
 This repo documents my progress, learnings, and reflections — updated daily for accountability.  
 Join me or follow along. 💻🔥
