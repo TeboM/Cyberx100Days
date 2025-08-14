@@ -15,7 +15,7 @@ Join me or follow along. 💻🔥
 
 ## 🎯 Goals
 
-- ✅ Complete 30 days (Phase 1)
+- ✅ Complete 30 days (Phase 1 - Why 30 days? They say it takes 21 Days to form a habit, we take it further, we make sure)
 - 🕐 Progress to 60 and then 90 days
 - 📚 Improve in DFIR, Threat Hunting, Web Exploitation, and more
 - 🚀 Build consistency, clarity, and confidence
