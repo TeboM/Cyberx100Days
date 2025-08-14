@@ -39,7 +39,7 @@ Join me or follow along. 💻🔥
 > Started with foundational network security concepts. Revisiting TCP/IP and packet inspection helped clarify Wireshark usage. Felt a bit slow but solid.
 
 ### Day 2 – 14 August
-> Worked on the OpenCTI platform, investigated the techniques, tools, and procedures (TTPs) used by APT29 (Cozy Bear :bear: - Russia says Hi :wave:) and mapping them to the MITRE ATT&CK framework. Very cool platform with multiple helpful features (Overview, Knowledge, History, Attribution, IOCs and many more...)
+> Worked on the OpenCTI platform, investigated the techniques, tools, and procedures (TTPs) used by APT29 (Cozy Bear :bear: - Russia says Hi :wave:) and mapping them to the MITRE ATT&CK framework. Very cool platform with multiple helpful features (Overview of topics, A very rich knowledge-base, History on threats, adversaries, tools, you name it, Attribution of attacks, IOCs and many more...)
 
 ...
 
