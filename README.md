@@ -27,7 +27,7 @@ Join me or follow along. 💻🔥
 | Day | Date       | Platform        | Challenge/Room                 | Time Spent | Key Learnings                        | Status    |
 |-----|------------|------------------|--------------------------------|------------|--------------------------------------|-----------|
 | 1   | 13 Aug     | CyberDefenders   | Golden Spray                   | 2 hours    | Password Spraying, Priv Escl, Cred Dump | ✅ Done    |
-| 2   | 14 Augy    | CyberDefenders   | OpenCTI 101 Lab                | 30 min     | APT29 Ops Overview, OpenCTI, OSINTy     | 🔁 In Progress |
+| 2   | 14 Aug    | CyberDefenders   | OpenCTI 101 Lab                | 30 min     | APT29 Ops Overview, OpenCTI, OSINTy     | 🔁 In Progress |
 | 3   | 26 July    | TryHackMe        | OWASP Top 10: Injection        | 75 min     | SQL injection basics, Burp Suite     | 🔜 Planned  |
 | ... | ...        | ...              | ...                            | ...        | ...                                  | ...       |
 
