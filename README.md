@@ -26,7 +26,7 @@ Join me or follow along. 💻🔥
 |-----|------------|------------------|--------------------------------|------------|--------------------------------------|-----------|
 | 1   | 13 Aug     | CyberDefenders   | Golden Spray                   | 2 hours    | Password Spraying, Priv Escl, Cred Dump | ✅ Done    |
 | 2   | 14 Aug     | CyberDefenders   | OpenCTI 101 Lab                | 30 min     | APT29 Ops Overview, OpenCTI, OSINT     | ✅ Done |
-| 3   | 15 Aug     | CyberDefenders   | OpenCTI 101 Lab                | 30 min     | APT29 Old Wine - New Bottle Phishing, NOBELIUM  | ✅ Done  |
+| 3   | 15 Aug     | CyberDefenders   | OpenCTI 101 Lab                | 30 min     | APT29 Old Wine in New Bottle Phishing, 2023 EU Gov Campaigns  | ✅ Done  |
 | 4   | 16 Augy    | Insert-here      | Insert-here                    | 00 min     | Insert-here                                | 🔜 Planned  |
 | ... | ...        | ...              | ...                            | ...        | ...                                  | ...       |
 
