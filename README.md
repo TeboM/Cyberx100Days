@@ -1,7 +1,7 @@
-# :desktop_computer: R3loadB00tCamp
+# :desktop_computer: Cyber X 100 Days
 This is part of my personal journey as I rebuild, rediscover and expand my cybersecurity skills in 90 days 
 
-# 🛡️ Cybersecurity Training Journey — 90 Days
+# 🛡️ Cybersecurity Training Journey 
 
 Welcome to my personal cybersecurity upskilling journey!  
 I'll be completing daily training using **TryHackMe**, **CyberDefenders**, **BTLO** and related platforms.
