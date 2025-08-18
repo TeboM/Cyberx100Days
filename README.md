@@ -1,5 +1,5 @@
 # :desktop_computer: Cyber X 100 Days
-This is part of my personal journey as I rebuild, rediscover and expand my cybersecurity skills in 90 days 
+This is part of my personal journey as I rebuild, rediscover and expand my cybersecurity skills in 100 days 
 
 # 🛡️ Cybersecurity Training Journey 
 
@@ -14,8 +14,8 @@ Join me or follow along. 💻🔥
 ## 🎯 Goals
 
 - ✅ Complete 30 days (Phase 1 - Why 30 days? They say it takes 21 Days to form a habit, we take it further, we make sure)
-- 🕐 Progress to 60 and then 90 days
-- 📚 Improve in DFIR, Threat Hunting, Web Exploitation, and more
+- 🕐 Progress to 60, 80 then 100 days
+- 📚 Improve in Security Research, Investigation Methodology, Malware Analysis, Threat Hunting, Web Exploitation, Learn new skills...
 - 🚀 Build consistency, clarity, and confidence
 
 ---
@@ -27,7 +27,9 @@ Join me or follow along. 💻🔥
 | 1   | 13 Aug     | CyberDefenders   | Golden Spray                   | 2 hours    | Password Spraying, Priv Escl, Cred Dump | ✅ Done    |
 | 2   | 14 Aug     | CyberDefenders   | OpenCTI 101 Lab                | 30 min     | APT29 Ops Overview, OpenCTI, OSINT     | ✅ Done |
 | 3   | 15 Aug     | CyberDefenders   | OpenCTI 101 Lab                | 30 min     | APT29 Old Wine in New Bottle Phishing, 2023 EU Gov Campaigns  | ✅ Done  |
-| 4   | 16 Augy    | Insert-here      | Insert-here                    | 00 min     | Insert-here                                | 🔜 Planned  |
+| 4   | 16 Aug     | CyberDefenders   | XLMRat Lab                     | 1 hour     | Malware Delivery, Deobfuscation, Code Review | 🔁 Incomplete  |
+| 5   | 17 Aug     | CyberDefenders   | XLMRat Lab                     | 30 min     | Malware Analysi                              | 🔁 Incomplete  |
+| 6   | 18 Aug     | CyberDefenders   | OpenFire Lab                   | 2 hours    | Network Forensics, Command Injection, CVE-2023-32315, Path Travesal Attack | ✅ Done  |
 | ... | ...        | ...              | ...                            | ...        | ...                                  | ...       |
 
 ---
