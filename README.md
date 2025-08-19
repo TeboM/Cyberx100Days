@@ -28,8 +28,10 @@ Join me or follow along. 💻🔥
 | 2   | 14 Aug     | CyberDefenders   | OpenCTI 101 Lab                | 30 min     | APT29 Ops Overview, OpenCTI, OSINT     | ✅ Done |
 | 3   | 15 Aug     | CyberDefenders   | OpenCTI 101 Lab                | 30 min     | APT29 Old Wine in New Bottle Phishing, 2023 EU Gov Campaigns  | ✅ Done  |
 | 4   | 16 Aug     | CyberDefenders   | XLMRat Lab                     | 1 hour     | Malware Delivery, Deobfuscation, Code Review | 🔁 Incomplete  |
-| 5   | 17 Aug     | CyberDefenders   | XLMRat Lab                     | 30 min     | Malware Analysi                              | 🔁 Incomplete  |
+| 5   | 17 Aug     | CyberDefenders   | XLMRat Lab                     | 30 min     | Malware Analysis                       | 🔁 Incomplete  |
 | 6   | 18 Aug     | CyberDefenders   | OpenFire Lab                   | 2 hours    | Network Forensics, Command Injection, CVE-2023-32315, Path Travesal Attack | ✅ Done  |
+| 7   | 19 Aug     | CyberDefenders   | Black Busta Lab                | 1 hour     | Initial Access and Execution, ZIP download, Mal-Macros | ♻️ In-Progress  |
+| 8   | 18 Aug     | <>   | OpenFire Lab                   | 2 hours    | Network Forensics, Command Injection, CVE-2023-32315, Path Travesal Attack | ✅ Done  |
 | ... | ...        | ...              | ...                            | ...        | ...                                  | ...       |
 
 ---
