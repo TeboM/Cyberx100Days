@@ -30,7 +30,7 @@ Join me or follow along. 💻🔥
 | 4   | 16 Aug     | CyberDefenders   | XLMRat Lab                     | 1 hour     | WireShark, Malware Delivery, Deobfuscation, Code Review | 🔁 Incomplete  |
 | 5   | 17 Aug     | CyberDefenders   | XLMRat Lab                     | 30 min     | Script Decoding & Analysis               | 🔁 Incomplete  |
 | 6   | 18 Aug     | CyberDefenders   | OpenFire Lab                   | 2 hours    | WireShark, Command Injection, CVE-2023-32315, Path Travesal | ✅ Done  |
-| 7   | 19 Aug     | CyberDefenders   | Black Busta Lab - 0x1          | 1 hour     | Initial Access and Execution, ZIP download, Mal-Macros | ✅ Done  |
+| 7   | 19 Aug     | CyberDefenders   | Black Busta Lab - 0x1          | 1 hour     | Initial Access and Execution, ZIP download, Malicious Excel Doc (Macros) | ✅ Done  |
 | 8   | 20 Aug     | CyberDefenders   | Black Busta Lab - 0x2          |  hours    | Persistence & Defense Evasion | ⏳ In-Progress  |
 | ... | ...        | ...              | ...                            | ...        | ...                                  | ...       |
 
