@@ -25,10 +25,10 @@ Join me or follow along. 💻🔥
 | Day | Date       | Platform        | Challenge/Room                 | Time Spent | Key Learnings                        | Status    |
 |-----|------------|------------------|--------------------------------|------------|--------------------------------------|-----------|
 | 1   | 13 Aug     | CyberDefenders   | Golden Spray                   | 2 hours    | Password Spraying, Priv Escl, Cred Dump | ✅ Done    |
-| 2   | 14 Aug     | CyberDefenders   | OpenCTI 101 Lab                | 30 min     | APT29 Ops Overview, OpenCTI, OSINT     | ✅ Done |
+| 2   | 14 Aug     | CyberDefenders   | OpenCTI 101 Lab                | 30 min     | Threat Intel, APT29 Ops Overview, OpenCTI, OSINT     | ✅ Done |
 | 3   | 15 Aug     | CyberDefenders   | OpenCTI 101 Lab                | 30 min     | APT29 Old Wine in New Bottle Phishing, 2023 EU Gov Campaigns  | ✅ Done  |
-| 4   | 16 Aug     | CyberDefenders   | XLMRat Lab                     | 1 hour     | Malware Delivery, Deobfuscation, Code Review | 🔁 Incomplete  |
-| 5   | 17 Aug     | CyberDefenders   | XLMRat Lab                     | 30 min     | Malware Analysis                       | 🔁 Incomplete  |
+| 4   | 16 Aug     | CyberDefenders   | XLMRat Lab                     | 1 hour     | WireShark, Malware Delivery, Deobfuscation, Code Review | 🔁 Incomplete  |
+| 5   | 17 Aug     | CyberDefenders   | XLMRat Lab                     | 30 min     | Script Decoding & Analysis               | 🔁 Incomplete  |
 | 6   | 18 Aug     | CyberDefenders   | OpenFire Lab                   | 2 hours    | WireShark, Command Injection, CVE-2023-32315, Path Travesal | ✅ Done  |
 | 7   | 19 Aug     | CyberDefenders   | Black Busta Lab - 0x1          | 1 hour     | Initial Access and Execution, ZIP download, Mal-Macros | ✅ Done  |
 | 8   | 20 Aug     | CyberDefenders   | Black Busta Lab - 0x2          |  hours    | Persistence & Defense Evasion | ⏳ In-Progress  |
