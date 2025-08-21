@@ -32,7 +32,7 @@ Join me or follow along. 💻🔥
 | 6   | 18 Aug     | CyberDefenders   | OpenFire Lab                   | 2 hours    | WireShark, Command Injection, CVE-2023-32315, Path Travesal | ✅ Done  |
 | 7   | 19 Aug     | CyberDefenders   | Black Busta Lab - 0x1          | 1 hour     | Initial Access and Execution, ZIP download, Malicious Excel Doc (Macros) | ✅ Done  |
 | 8   | 20 Aug     | CyberDefenders   | Black Busta Lab - 0x2          | 1 hour     | Persistence & Defense Evasion, Scheduled Tasks, Registry Changes  | ✅ Done  |
-| 9   | 21 Aug     | CyberDefenders   | Black Busta Lab - 0x3          |      |   | ⏳ In-Progress  |
+| 9   | 21 Aug     | CyberDefenders   | Black Busta Lab - 0x3, 0x4     | 2 hours    | C2, Lateral Movement & Discovery,   | ⏳ In-Progress  |
 | ... | ...        | ...              | ...                            | ...        | ...                                  | ...       |
 
 ---
