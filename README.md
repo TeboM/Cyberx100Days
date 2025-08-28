@@ -34,6 +34,12 @@ Join me or follow along. 💻🔥
 | 8   | 20 Aug     | CyberDefenders   | Black Busta - 0x2              | 1 hour     | Persistence & Defense Evasion, Scheduled Tasks, Registry Changes  | ✅ Done  |
 | 9   | 21 Aug     | CyberDefenders   | Black Busta - 0x3, 0x4         | 2 hours    | C2, Lateral Movement & Discovery,   | ✅ Done  |
 | 10  | 22 Aug     | CyberDefenders   | Black Busta - 0x5              | 1 hour     | Impact, Ransomware execution, Inhibit System Recovery | ⏳ In-Progress  |
+| 11  | 23 Aug     | CyberDefenders   | Black Busta - 0x5              | 1 hour     | Impact, Ransomware execution, Inhibit System Recovery | ⏳ In-Progress  |
+| 00  | 24 Aug     | N/A              | None                           | 0 min      | No training done (AFK All Day) Brass Duties  | ⛔ N/A  |
+| 12  | 25 Aug     | CyberDefenders   | Black Busta - 0x5              | 1 hour     | Impact, Ransomware execution, Inhibit System Recovery | ⏳ In-Progress  |
+| 13  | 26 Aug     | CyberDefenders   | Black Busta - 0x5              | 1 hour     | Impact, Ransomware execution, Inhibit System Recovery | ⏳ In-Progress  |
+| 14  | 27 Aug     | CyberDefenders   | Black Busta - 0x6              | 30 min     | Exfiltration & Data Theft: Archiving & Collection, Exfil using cloud based storage  |  ✅ Done  |
+| 15  | 28 Aug     | CyberDefenders   | Rhysida - 0x1                  | 30 min     | Initial Access, O365 credential phishing | ⏳ In-Progress  |
 | ... | ...        | ...              | ...                            | ...        | ...                                  | ...       |
 
 ---
