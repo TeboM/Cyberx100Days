@@ -41,6 +41,7 @@ Join me or follow along. 💻🔥
 | 14  | 27 Aug     | CyberDefenders   | Black Busta - 0x6              | 30 min     | Data Theft: Collection after ransomware, Exfil using cloud based storage  |  ✅ Done  |
 | 15  | 28 Aug     | CyberDefenders   | Rhysida - 0x1                  | 30 min     | Initial Access, O365 credential phishing | ⏳ In-Progress  |
 | 16  | 29 Aug     | CyberDefenders   | Rhysida - 0x1, 0x2             | 1 hour     | Initial Access & Execution, Persistence & Defence Evasion  | ⏰ Planned  |
+| 17  | 30 Aug     | CyberDefenders   | Rhysida - 0x1, 0x2             | 1 hour     | Initial Access & Execution, Persistence & Defence Evasion  | ⏰ Planned  |
 | ... | ...        | ...              | ...                            | ...        | ...                                  | ...       |
 
 ---
