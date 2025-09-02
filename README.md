@@ -44,7 +44,7 @@ Join me or follow along. 💻🔥
 | 17  | 30 Aug     | CyberDefenders   | Rhysida - 0x1                  | 15 min     | Initial Access: Compromised Credential Abuse  | ✅ Done  |
 | 18  | 31 Aug     | CyberDefenders   | Rhysida - 0x1                  | 15 min     | Execution: Use of LOLBINs for downloading payloads  | ✅ Done  |
 | 19  | 01 Sep     | CyberDefenders   | Rhysida - 0x2                  | 30 min     | Persistence: Registry changes mimicking normal system activity  |  ✅ Done  |
-| 20  | 02 Sep     | CyberDefenders   | Rhysida - 0x2, 0x3             | 30 min     | Defense Evasion: Disabling of WinDefender and Event Auditing. Clearing of logs to cover tracks. Credential Access:  | ✅ Done  |
+| 20  | 02 Sep     | CyberDefenders   | Rhysida - 0x2, 0x3             | 30 min     | Defense Evasion: WinDefender and System Auditing disabled. System logs cleared to cover tracks. Credential Access: Browser credential dumping, credential storage | ✅ Done  |
 | ... | ...        | ...              | ...                            | ...        | ...                                  | ...       |
 
 ---
