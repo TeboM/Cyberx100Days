@@ -39,9 +39,12 @@ Join me or follow along. 💻🔥
 | 12  | 25 Aug     | CyberDefenders   | Black Busta - 0x5              | 15 min     | Ransomware execution via privileged account, Shadow Copy deletion, File Encryption | ✅ Done  |
 | 13  | 26 Aug     | CyberDefenders   | Black Busta - 0x6              | 15 min     | Exfiltration: preparation before exfil, file zipped  | ✅ Done  |
 | 14  | 27 Aug     | CyberDefenders   | Black Busta - 0x6              | 30 min     | Data Theft: Collection after ransomware, Exfil using cloud based storage  |  ✅ Done  |
-| 15  | 28 Aug     | CyberDefenders   | Rhysida - 0x1                  | 30 min     | Initial Access, O365 credential phishing | ⏳ In-Progress  |
-| 16  | 29 Aug     | CyberDefenders   | Rhysida - 0x1, 0x2             | 1 hour     | Initial Access & Execution, Persistence & Defence Evasion  | ⏰ Planned  |
-| 17  | 30 Aug     | CyberDefenders   | Rhysida - 0x1, 0x2             | 1 hour     | Initial Access & Execution, Persistence & Defence Evasion  | ⏰ Planned  |
+| 15  | 28 Aug     | CyberDefenders   | Rhysida - 0x1                  | 30 min     | Initial Access: O365 credential phishing | ✅ Done  |
+| 16  | 29 Aug     | CyberDefenders   | Rhysida - 0x1                  | 30 min     | Initial Access: Unauthorized SSH Logins  | ✅ Done  |
+| 17  | 30 Aug     | CyberDefenders   | Rhysida - 0x1                  | 15 min     | Initial Access: Compromised Credential Abuse  | ✅ Done  |
+| 18  | 31 Aug     | CyberDefenders   | Rhysida - 0x1                  | 15 min     | Execution: Use of LOLBINs for downloading payloads  | ✅ Done  |
+| 19  | 01 Sep     | CyberDefenders   | Rhysida - 0x2                  | 30 min     | Persistence: Registry changes mimicking normal system activity  |  ✅ Done  |
+| 20  | 02 Sep     | CyberDefenders   | Rhysida - 0x2, 0x3             | 30 min     | Defense Evasion: Disabling of WinDefender and Event Auditing. Clearing of logs to cover tracks. Credential Access:  | ✅ Done  |
 | ... | ...        | ...              | ...                            | ...        | ...                                  | ...       |
 
 ---
@@ -54,6 +57,8 @@ Join me or follow along. 💻🔥
 ### Day 2 – 14 August
 > Worked on the OpenCTI platform, investigated the techniques, tools, and procedures (TTPs) used by APT29 (Cozy Bear :bear: - Russia says Hi :wave:) and mapping them to the MITRE ATT&CK framework. Very cool platform with multiple helpful features (Overview of topics, A very rich knowledge-base, History on threats, adversaries, tools, you name it, Attribution of attacks, IOCs and many more...)
 
+### Day 20 - 02 September
+> Rhysida Lab (Persistence) Identified registry changes For persistence the attacker made registry changes that appear
 ...
 
 ---
