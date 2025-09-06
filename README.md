@@ -45,6 +45,11 @@ Join me or follow along. 💻🔥
 | 18  | 31 Aug     | CyberDefenders   | Rhysida - 0x1                  | 15 min     | Execution: Use of LOLBINs for downloading payloads  | ✅ Done  |
 | 19  | 01 Sep     | CyberDefenders   | Rhysida - 0x2                  | 30 min     | Persistence: Registry changes mimicking normal system activity  |  ✅ Done  |
 | 20  | 02 Sep     | CyberDefenders   | Rhysida - 0x2, 0x3             | 1 hour     | Defense Evasion: WinDefender and System Auditing disabled. System logs cleared to cover tracks. Credential Access: Browser credential dumping, credential storage | ✅ Done  |
+| 21  | 03 Sep     | CyberDefenders   | Rhysida - 0x1                  | 30 min     | Initial Access: O365 credential phishing | ✅ Done  |
+| 22  | 04 Sep     | CyberDefenders   | Rhysida - 0x1                  | 30 min     | Initial Access: O365 credential phishing | ✅ Done  |
+| 23  | 05 Sep     | CyberDefenders   | Rhysida - 0x6                  | 30 min     | Initial Access: O365 credential phishing | ✅ Done  |
+| 24  | 06 Sep     | CyberDefenders   | T1598.002 - Spearphishing      | 30 min     | Malicious Attachment Analysis, Used OleDump + Outlookspy Tools for Investigation, .LNK file used for downloading further payloads. | ✅ Done  |
+| 25  | 07 Sep     | CyberDefenders   | Rhysida - 0x1                  | 30 min     | Initial Access: O365 credential phishing | ⏳ Planned  |
 | ... | ...        | ...              | ...                            | ...        | ...                                  | ...       |
 
 ---
