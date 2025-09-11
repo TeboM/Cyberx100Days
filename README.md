@@ -49,7 +49,7 @@ Join me or follow along. 💻🔥
 | 22  | 04 Sep     | CyberDefenders   | Rhysida - 0x5                  | 15 min     | Exfiltration: Data Collection & storage in Public Directory, File Compression before exfil | ✅ Done  |
 | 23  | 05 Sep     | CyberDefenders   | Rhysida - 0x6                  | 15 min     | Impact: Ransomware execution across multiple hosts, Ingress Tools stored in sensetive location | ✅ Done  |
 | 24  | 06 Sep     | CyberDefenders   | T1598.002 - Spearphishing      | 30 min     | Malicious Attachment Analysis, Used OleDump + Outlookspy Tools for Investigation, .LNK file used for downloading further payloads. | ✅ Done  |
-| 25  | 07 Sep     | CyberDefenders   | ???                            | 30 min     | ??? | ⏳ Planned  |
+| 25  | 07 Sep     | CyberDefenders   | JetBrains                      | 15 min     | JetBrains exploitation, PCAP analysis, Initial Access via sus IP | ⏳ Incomplete |
 | ... | ...        | ...              | ...                            | ...        | ...                                  | ...       |
 
 ---
